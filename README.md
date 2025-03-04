@@ -1,4 +1,4 @@
-# 👨‍💻 Lorenzo Di Giovanni - Software Developer
+# Lorenzo Di Giovanni
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=typegaro&layout=compact&card_width=400&border_radius=10&hide=html,css)
 
