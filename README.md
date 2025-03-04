@@ -32,9 +32,7 @@ Feel free to contact me via [email](mailto:lorenzo.di.giovanni00@gmail.com) or t
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=typegaro&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=typegaro&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=typegaro&layout=compact&theme=merko&card_width=400&border_radius=10&hide=html,css)
 
 ---
 
