@@ -24,7 +24,7 @@ MongoDB 🐱, PostgreSQL 🍇, SQLite 🗄️, Redis 🧸, Qdrant 🔄
 
 [🐹 HamstersTunnel](https://github.com/typegaro/HamstersTunnel) - Tunneling Client-Server: A flexible tunneling service that allows you to expose local services via tunneling with support for HTTP, TCP, and UDP.
 
-[📄 RAG System for PDF Documents](https://github.com/typegaro/AskToPdf) - RAG for PDF: A Retrieval-Augmented Generation system for querying PDF documents using advanced language models.
+[📄 AskToPdf](https://github.com/typegaro/AskToPdf) - RAG for PDF: A Retrieval-Augmented Generation system for querying PDF documents using advanced language models.
 
 ---
 
