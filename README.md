@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👨‍💻 Lorenzo Di Giovanni - Software Developer
 
-<!--
-**typegaro/typegaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Technical Skills
 
-Here are some ideas to get you started:
+### 🌐 Programming Languages:
+Go 🦦, Java ☕, Python 🐍, C/C++ 💻, JavaScript ⚡, TypeScript 🔵, SQL 🔢, Bash ⌨️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Frameworks and Libraries:
+React ⚛️, ReactNative 📱, Expo 📱, FastAPI 🚀, Express 🌐, LangChain 🔗, Pandas 📊, NumPy ➗, Matplotlib 📈, Echo 🎤
+
+### 🧰 Tools and Technologies:
+Linux 🐧, MacOS 🍏, Git 🦸‍♂️, Docker 🐳, NeoVim 📝, PyCharm 🧑‍💻, IntelliJ 🧑‍💻, VS Code 💻
+
+### 🗄️ Databases:
+MongoDB 🐱, PostgreSQL 🍇, SQLite 🗄️, Redis 🧸, Qdrant 🔄
+
+---
+
+## 🚀 Key Projects
+
+[📚 ts-cat](https://github.com/zAlweNy26/ts-cat) - TypeScript Framework: A RAG framework for multi-agent chat, developed with TypeScript and support for multiple language models.
+
+[🐹 HamstersTunnel](https://github.com/typegaro/HamstersTunnel) - Tunneling Client-Server: A flexible tunneling service that allows you to expose local services via tunneling with support for HTTP, TCP, and UDP.
+
+[📄 RAG System for PDF Documents](https://github.com/typegaro/AskToPdf) - RAG for PDF: A Retrieval-Augmented Generation system for querying PDF documents using advanced language models.
+
+---
+
+## 📫 Contact Me
+
+Feel free to contact me via [email](mailto:lorenzo.di.giovanni00@gmail.com) or through [LinkedIn](https://linkedin.com/in/lorenzo-di-giovanni-247454350).
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=typegaro&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=typegaro&layout=compact&theme=radical)
+
+---
+
+🔗 **Open-Source Projects:** Check out my projects for more innovative solutions on GitHub!
