@@ -1,5 +1,7 @@
 # 👨‍💻 Lorenzo Di Giovanni - Software Developer
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=typegaro&layout=compact&card_width=400&border_radius=10&hide=html,css)
+
 ## 💻 Technical Skills
 
 ### 🌐 Programming Languages:
@@ -29,11 +31,5 @@ MongoDB 🐱, PostgreSQL 🍇, SQLite 🗄️, Redis 🧸, Qdrant 🔄
 ## 📫 Contact Me
 
 Feel free to contact me via [email](mailto:lorenzo.di.giovanni00@gmail.com) or through [LinkedIn](https://linkedin.com/in/lorenzo-di-giovanni-247454350).
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=typegaro&layout=compact&theme=merko&card_width=400&border_radius=10&hide=html,css)
-
----
 
 🔗 **Open-Source Projects:** Check out my projects for more innovative solutions on GitHub!
