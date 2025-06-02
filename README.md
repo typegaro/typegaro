@@ -18,16 +18,6 @@ MongoDB 🐱, PostgreSQL 🍇, SQLite 🗄️, Redis 🧸, Qdrant 🔄
 
 ---
 
-## 🚀 Key Projects
-
-[📚 ts-cat](https://github.com/zAlweNy26/ts-cat) - TypeScript Framework: A RAG framework for multi-agent chat, developed with TypeScript and support for multiple language models.
-
-[🐹 HamstersTunnel](https://github.com/typegaro/HamstersTunnel) - Tunneling Client-Server: A flexible tunneling service that allows you to expose local services via tunneling with support for HTTP, TCP, and UDP.
-
-[📄 AskToPdf](https://github.com/typegaro/AskToPdf) - RAG for PDF: A Retrieval-Augmented Generation system for querying PDF documents using advanced language models.
-
----
-
 ## 📫 Contact Me
 
 Feel free to contact me via [email](mailto:lorenzo.di.giovanni00@gmail.com) or through [LinkedIn](https://linkedin.com/in/lorenzo-di-giovanni-247454350).
