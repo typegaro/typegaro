@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lorenzo Di Giovanni</h1>
 <h3 align="center">Passionate Software Engineer focused on building clean and performant systems. (<a href="https://typegaro.dev" target="_blank" rel="noopener noreferrer">typegaro.dev</a>) </h3>
+
 ---
 
 ### 📊 Languages & Tools
